@@ -523,7 +523,7 @@ ab1a94a (HEAD -> master) Flie's name has been changed
 b5dc732 This is the first change to the second txt, new line added
 9ad3c02 Changes have been made to the first txt, added new text
 
-<<<<<<< HEAD
-=======
 modificacion again
->>>>>>> rama2
+
+
+ultima modificacion
